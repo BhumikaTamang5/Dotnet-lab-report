@@ -1,0 +1,7 @@
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\bin\Debug\LabWork.exe.config
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\bin\Debug\LabWork.exe
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\bin\Debug\LabWork.pdb
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\obj\Debug\LabWork.csproj.AssemblyReference.cache
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\obj\Debug\LabWork.csproj.CoreCompileInputs.cache
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\obj\Debug\LabWork.exe
+D:\5th Sem\Dot Net\Bhumika\LabWork\LabWork\obj\Debug\LabWork.pdb
